@@ -71,6 +71,10 @@ group :test do
 
 end
 
+# backend
 gem "devise", "~> 4.9"
+gem 'cancancan'
 gem 'enumerize'
 gem 'letter_opener', '~> 1.4', '>= 1.4.1'
+
+# frontend
