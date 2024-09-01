@@ -70,3 +70,7 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem "devise", "~> 4.9"
+gem 'enumerize'
+gem 'letter_opener', '~> 1.4', '>= 1.4.1'
